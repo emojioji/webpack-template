@@ -1,2 +1,2 @@
 # webpack-template
-这是我尝试开发的第一个网页游戏，名为洪荒。
+My template for using webpack with separate dev and config files.
